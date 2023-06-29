@@ -4,6 +4,7 @@ import datetime
 conn = psycopg2.connect(host="localhost", database="Libreria", user="postgres", password="Admin")
 ##holi
 ##funciona mierda
+##me tienen pal webeo
 
 def comprobarCliente(user, password):
     
