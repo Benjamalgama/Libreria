@@ -5,6 +5,7 @@ conn = psycopg2.connect(host="localhost", database="Libreria", user="postgres", 
 ##holi
 ##funciona mierda
 ##me tienen pal webeo
+##me tienen pal webeo estos giles
 
 def comprobarCliente(user, password):
     
